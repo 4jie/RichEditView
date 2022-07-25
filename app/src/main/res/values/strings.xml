@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RichEditView</string>
+    <string name="tip_content">请输入内容</string>
+    <string name="insert_picture">插入图片</string>
+</resources>
